@@ -105,8 +105,11 @@ Combined logical conditions
 Level	Requirement	Badge
 
 🥉 1	--> 17 correct queries
+
 🥈 2	--> 18-25 correct queries
+
 🥇 3 -->	26+ correct queries
+
 
 
 ## 🎯 Learning Goals
